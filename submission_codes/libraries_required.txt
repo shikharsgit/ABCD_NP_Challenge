@@ -1,0 +1,25 @@
+#### Python module's required
+numpy
+time
+os
+sys
+pandas
+sklearn
+random
+nilearn
+joblib
+nibabel
+nilearn
+glob
+scipy
+torch
+torchvision
+itertools
+xgboost
+multiprocessing
+statistics
+re
+
+#### R packages Required
+plyr
+caret
