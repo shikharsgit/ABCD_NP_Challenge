@@ -19,11 +19,10 @@ Final codes used for generating results are in submission_codes folder.
 
 1. For obtaining predictions using this approach please run the files in sequential number order (in file name).
 2. Python 3.6 and R 3.4 were jointly used at various stages. Respective file types can be used for indication of which program to us.
-3. Self created modules/functions are named as "util_xxxx". They are in the zip file as well.
+3. Self created modules/functions are named as "util_xxxx".
 4. Please set a path before running each file. Each file contains its own description.
-5. The grid search parameters used for CNN models are also in the zip file.
 
 ## Requirements
 
-External libraries or modules which were used are provided in "libraries.txt". Additionally, each script requires setting a `path` variable assigned to either data or model candidates' library. The specific instruction are provided in the scripts.
+External libraries or modules which were used are provided in "libraries.txt". 
 
